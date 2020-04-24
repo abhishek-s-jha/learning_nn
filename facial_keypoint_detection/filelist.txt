@@ -2,13 +2,3 @@ models.py
 2. Define the Network Architecture.html
 3. Facial Keypoint Detection, Complete Pipeline.html
 4. Fun with Keypoints.html
-detector_architectures
-images
-saved_models
-1. Load and Visualize Data.ipynb
-5. Zip Your Project Files and Submit.ipynb
-2. Define the Network Architecture.html
-3. Facial Keypoint Detection, Complete Pipeline.html
-4. Fun with Keypoints.html
-data_load.py
-workspace_utils.py

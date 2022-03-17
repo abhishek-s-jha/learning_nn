@@ -1,4 +1,3 @@
-# Learning NN
 ## Objective
 The objective of this assignment is to build an OCR solution forthe provided dataset. This specific
 dataset is normal and HDR readings of license plates.
